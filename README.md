@@ -42,10 +42,14 @@ Este proyecto fue desarrollado con el propósito de analizar los datos relaciona
 3. **Conclusión**
 
 
-! Cómo Ejecutar el Proyecto
+## 🛠️ Cómo Ejecutar el Proyecto
 
-Abrí el archivo AluraStoreLatam.ipynb en Google Colab.
+  - Abrí el archivo AluraStoreLatam.ipynb en Google Colab.
 
-Ejecutá todas las celdas en orden.
+  - Ejecutá todas las celdas en orden.
 
-Asegurate de tener conexión a internet para cargar los datasets desde GitHub.
+  - Asegurate de tener conexión a internet para cargar los datasets desde GitHub.
+
+
+## Autor
+ - Marcelo Rojas - 2025
