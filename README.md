@@ -27,17 +27,17 @@ Este proyecto fue desarrollado con el propósito de analizar los datos relaciona
 
 1. **Extracción de datos:**
 
-   *- Importación de librerías y carga de las bases de datos*
-   *- Revisión y comprensión de la estructura de los datos*
+   - *Importación de librerías y carga de las bases de datos*
+   - *Revisión y comprensión de la estructura de los datos*
 
 2. **Análisis de datos:**
 
-   *- Facturación total*
-   *- Ventas por categoría*
-   *- Calificación promedio por tienda*
-   *- Productos más y menos vendidos*
-   *- Costos promedio de envío por tienda*
-   *- Graficos*
+   - *Facturación total*
+   - *Ventas por categoría*
+   - *Calificación promedio por tienda*
+   - *Productos más y menos vendidos*
+   - *Costos promedio de envío por tienda*
+   - *Graficos*
 
 3. **Conclusión**
 
